@@ -1,0 +1,23 @@
+{
+  "name": "6rozijnen",
+  "version": "1.0.0",
+  "description": "🔋 6 Rozijnen Energy – Smart Energy Dashboard A modular, user-friendly dashboard for monitoring real-time energy data, managing user roles, and customizing widgets. Built with scalability, usability, and modern UX/UI principles in mind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu4195/6rozijnen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu4195/6rozijnen/issues"
+  },
+  "homepage": "https://github.com/manu4195/6rozijnen#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
